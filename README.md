@@ -1,2 +1,2 @@
-# Teszrepo
+# Tesztrepo
 Ez egy teszt
